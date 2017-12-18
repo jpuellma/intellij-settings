@@ -20,10 +20,9 @@
         <mark key="^" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/image_builder/ansible/scripts/getArchive.sh" timestamp="1513376389603">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="2" column="5" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/image_builder/ansible/td-agent.yml" timestamp="1513353440900">
         <mark key="'" line="27" column="21" />
@@ -37,6 +36,11 @@
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/image_builder/kickstart/rhel7-ks.cfg" timestamp="1513621919916">
+        <mark key="[" line="14" column="120" />
+        <mark key="]" line="14" column="120" />
+        <mark key="." line="14" column="120" />
       </file>
       <file name="/XML Fragment (td-agent-fixup.sh:313).xml" timestamp="1513354670354">
         <mark key="[" line="0" column="0" />
@@ -56,11 +60,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/image_builder/ansible/scripts/getArchive.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3UgYXVzb25pYS11c2VyIC1jICdub2h1cCAuL2F1c29uaWEtcnVuLnNoID4gYXVzb25pYS1ydW4tbG9nJwo=</text>
+      <register name="&quot;" type="4">
+        <text>-rhel-os</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>-rhel-os</text>
       </register>
       <register name="/" type="4">
         <text>cp</text>
