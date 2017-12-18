@@ -1,0 +1,133 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1513283939634">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" timestamp="1513354494913">
+        <mark key="'" line="28" column="16" />
+        <mark key="[" line="28" column="76" />
+        <mark key="]" line="28" column="76" />
+        <mark key="." line="28" column="76" />
+        <mark key="^" line="28" column="76" />
+      </file>
+      <file name="$USER_HOME$/image_builder/ansible/repos.yml" timestamp="1513282950518">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="72" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/image_builder/ansible/scripts/getArchive.sh" timestamp="1513376389603">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="5" />
+      </file>
+      <file name="$USER_HOME$/image_builder/ansible/td-agent.yml" timestamp="1513353440900">
+        <mark key="'" line="27" column="21" />
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="32" column="35" />
+      </file>
+      <file name="$USER_HOME$/cloudera/.gitignore" timestamp="1511996491939">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
+      <file name="/XML Fragment (td-agent-fixup.sh:313).xml" timestamp="1513354670354">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="22" column="12" filename="$USER_HOME$/image_builder/ansible/td-agent.yml" />
+      <jump line="29" column="44" filename="$USER_HOME$/image_builder/ansible/td-agent.yml" />
+      <jump line="32" column="30" filename="$USER_HOME$/image_builder/ansible/td-agent.yml" />
+      <jump line="23" column="0" filename="$USER_HOME$/image_builder/ansible/td-agent.yml" />
+      <jump line="24" column="38" filename="$USER_HOME$/image_builder/ansible/td-agent.yml" />
+      <jump line="30" column="21" filename="$USER_HOME$/image_builder/ansible/td-agent.yml" />
+      <jump line="32" column="11" filename="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" />
+      <jump line="5" column="0" filename="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" />
+      <jump line="3" column="0" filename="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" />
+      <jump line="28" column="16" filename="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" />
+      <jump line="13" column="0" filename="$USER_HOME$/image_builder/ansible/scripts/getArchive.sh" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3UgYXVzb25pYS11c2VyIC1jICdub2h1cCAuL2F1c29uaWEtcnVuLnNoID4gYXVzb25pYS1ydW4tbG9nJwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>:</text>
+      </register>
+      <register name="/" type="4">
+        <text>cp</text>
+      </register>
+      <register name="0" type="4">
+        <text>cp /var/lib/waagent/CustomData /mnt/resource/CustomData
+s</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">c3UgYXVzb25pYS11c2VyIC1jICdub2h1cCAuL2F1c29uaWEtcnVuLnNoID4gYXVzb25pYS1ydW4tbG9nJwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">WyAtZiAvdmFyL2xpYi93YWFnZW50L0N1c3RvbURhdGEgXSAmJiBjcCAvdmFyL2xpYi93YWFnZW50L0N1c3RvbURhdGEgL21udC9yZXNvdXJjZS9DdXN0b21EYXRhCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVjaG8gIk5vdCBmb3VuZC4gUmUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVjaG8gZW5kCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cyAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVjaG8gc3RhcnQgJGkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aWYgW1sgXyR7bmFtZX0gPT0gX2ZhaWxlZCBdXTsgdGhlbgogICAgZXhpdCAxCmZpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>cp</last-search>
+      <last-offset />
+      <last-pattern>cp</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>Set</entry>
+        <entry>mes</entry>
+        <entry>logname</entry>
+        <entry>name</entry>
+        <entry>access</entry>
+        <entry>cp</entry>
+      </history-search>
+      <history-cmd>
+        <entry>6</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
