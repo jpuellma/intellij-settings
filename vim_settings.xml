@@ -37,11 +37,7 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/image_builder/kickstart/rhel7-ks.cfg" timestamp="1513621919916">
-        <mark key="[" line="14" column="120" />
-        <mark key="]" line="14" column="120" />
-        <mark key="." line="14" column="120" />
-      </file>
+      <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513632338555" />
       <file name="/XML Fragment (td-agent-fixup.sh:313).xml" timestamp="1513354670354">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,8 +56,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/image_builder/ansible/scripts/getArchive.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-rhel-os</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>-rhel-os</text>
@@ -74,31 +70,31 @@
 s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3UgYXVzb25pYS11c2VyIC1jICdub2h1cCAuL2F1c29uaWEtcnVuLnNoID4gYXVzb25pYS1ydW4tbG9nJwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">c3UgYXVzb25pYS11c2VyIC1jICdub2h1cCAuL2F1c29uaWEtcnVuLnNoID4gYXVzb25pYS1ydW4tbG9nJwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">WyAtZiAvdmFyL2xpYi93YWFnZW50L0N1c3RvbURhdGEgXSAmJiBjcCAvdmFyL2xpYi93YWFnZW50L0N1c3RvbURhdGEgL21udC9yZXNvdXJjZS9DdXN0b21EYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIk5vdCBmb3VuZC4gUmUK</text>
+        <text encoding="base64">WyAtZiAvdmFyL2xpYi93YWFnZW50L0N1c3RvbURhdGEgXSAmJiBjcCAvdmFyL2xpYi93YWFnZW50L0N1c3RvbURhdGEgL21udC9yZXNvdXJjZS9DdXN0b21EYXRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gZW5kCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIk5vdCBmb3VuZC4gUmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cyAK</text>
+        <text encoding="base64">ICAgIGVjaG8gZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gc3RhcnQgJGkK</text>
+        <text encoding="base64">cyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgW1sgXyR7bmFtZX0gPT0gX2ZhaWxlZCBdXTsgdGhlbgogICAgZXhpdCAxCmZpCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gc3RhcnQgJGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aWYgW1sgXyR7bmFtZX0gPT0gX2ZhaWxlZCBdXTsgdGhlbgogICAgZXhpdCAxCmZpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
