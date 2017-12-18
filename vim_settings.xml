@@ -36,16 +36,25 @@
         <mark key="." line="33" column="18" />
         <mark key="^" line="32" column="35" />
       </file>
+      <file name="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" timestamp="1513638097733">
+        <mark key="'" line="1" column="15" />
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+      </file>
       <file name="$USER_HOME$/cloudera/.gitignore" timestamp="1511996491939">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513634909801">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513635997438">
+        <mark key="'" line="45" column="23" />
+        <mark key="[" line="43" column="22" />
+        <mark key="]" line="44" column="74" />
+        <mark key="." line="44" column="74" />
+        <mark key="^" line="44" column="74" />
       </file>
       <file name="/XML Fragment (td-agent-fixup.sh:313).xml" timestamp="1513354670354">
         <mark key="[" line="0" column="0" />
@@ -63,56 +72,64 @@
       <jump line="3" column="0" filename="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" />
       <jump line="28" column="16" filename="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" />
       <jump line="13" column="0" filename="$USER_HOME$/image_builder/ansible/scripts/getArchive.sh" />
+      <jump line="44" column="23" filename="$USER_HOME$/image_builder/Jenkinsfile" />
+      <jump line="2" column="22" filename="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" />
+      <jump line="4" column="28" filename="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" />
+      <jump line="15" column="45" filename="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" />
+      <jump line="18" column="80" filename="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" />
+      <jump line="22" column="45" filename="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" />
+      <jump line="25" column="80" filename="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" />
+      <jump line="32" column="52" filename="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" />
+      <jump line="1" column="15" filename="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmVudgo=</text>
+      <register name="&quot;" type="4">
+        <text>image_builder</text>
       </register>
       <register name="-" type="4">
-        <text>-rhel-os</text>
+        <text>image_builder</text>
       </register>
       <register name="/" type="4">
-        <text>cp</text>
+        <text>image_builder</text>
       </register>
-      <register name="0" type="4">
-        <text>cp /var/lib/waagent/CustomData /mnt/resource/CustomData
-s</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC0gbmFtZTogU3RhdCB0aGUgZGlyZWN0b3J5CiAgICAgIHN0YXQ6CiAgICAgICAgcGF0aDogInt7IGRlcGxveV9kaXIgfX0vaW1hZ2VfYnVpbGRlciIKICAgICAgcmVnaXN0ZXI6ICJkaXJfc3RhdCIKICAgIC0gbmFtZTogUmVuYW1lIG9sZCBkZXBsb3kgZGlyIHRvIC5vbGQKICAgICAgY29tbWFuZDogIm12IHt7IGRlcGxveV9kaXIgfX0vaW1hZ2VfYnVpbGRlciB7e2RlcGxveV9kaXIgfX0vaW1hZ2VfYnVpbGRlci5vbGQiCiAgICAgIHdoZW46IGRpcl9zdGF0LnN0YXQuZXhpc3RzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmVudgo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlOiAwNjQ0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogTWFrZSB0aGUgZGVwbG95cyBkaXIuCiAgICAgIGZpbGU6CiAgICAgICAgb3duZXI6IG9zZmRldgogICAgICAgIGdyb3VwOiB1bml4dXNlcgogICAgICAgIG1vZGU6IDA3NTUKICAgICAgICBwYXRoOiB7eyBkZXBsb3lfZGlyIH19Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3UgYXVzb25pYS11c2VyIC1jICdub2h1cCAuL2F1c29uaWEtcnVuLnNoID4gYXVzb25pYS1ydW4tbG9nJwo=</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlcjogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogZXh0cmFjdCBhcmNoaXZlCiAgICAgIHVuYXJjaGl2ZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">WyAtZiAvdmFyL2xpYi93YWFnZW50L0N1c3RvbURhdGEgXSAmJiBjcCAvdmFyL2xpYi93YWFnZW50L0N1c3RvbURhdGEgL21udC9yZXNvdXJjZS9DdXN0b21EYXRhCg==</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogZmV0Y2ggYXJjaGl2ZQogICAgICBnZXRfdXJsOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIk5vdCBmb3VuZC4gUmUK</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogcmVwbGFjZSAvZXRjL3N5c2NvbmZpZy9uZXR3b3JrCiAgICAgIGNvcHk6CiAgICAgICAgc3JjOiBmaWxlcy9uZXR3b3JrLXN5c2NvbmZpZwogICAgICAgIGRlc3Q6IC9ldGMvc3lzY29uZmlnL25ldHdvcmsKICAgICAgICBtb2RlOiAwNjQ0CiAgICAtIG5hbWU6IG1hc2sgcGVyc2lzdGVudC1uZXQtZ2VuZXJhdG9yLnJ1bGVzCiAgICAgIGZpbGU6CiAgICAgICAgcGF0aDogL2V0Yy91ZGV2L3J1bGVzLmQvNzUtcGVyc2lzdGVudC1uZXQtZ2VuZXJhdG9yLnJ1bGVzCiAgICAgICAgc3RhdGU6IGxpbmsKICAgICAgICBzcmM6IC9kZXYvbnVsbAogICAgLSBuYW1lOiBpbnN0YWxsIEF6dXJlIGRyYWN1dCBjb25maWd1cmF0aW9uCiAgICAgIGNvcHk6CiAgICAgICAgc3JjOiBmaWxlcy9henVyZS1kcmFjdXQKICAgICAgICBkZXN0OiAvZXRjL2RyYWN1dC5jb25mLmQvYXp1cmUtZHJhY3V0LmNvbmYKICAgICAgICBtb2RlOiAwNjQ0CiAgICAtIG5hbWU6IHJlbW92ZSBpdGVtcyBmcm9tIGNtZGxpbmUKICAgICAgbGluZWluZmlsZToKICAgICAgICBwYXRoOiAvZXRjL2RlZmF1bHQvZ3J1YgogICAgICAgIHJlZ2V4cDogJ15HUlVCX0NNRExJTkVfTElOVVgoLiopKGNyYXNoa2VybmVsPWF1dG8pICguKilyaGdiIHF1aWV0JwogICAgICAgIGJhY2tyZWZzOiB5ZXMKICAgICAgICBsaW5lOiAnR1JVQl9DTURMSU5FX0xJTlVYXDFcM3Jvb3RkZWxheT0zMDAgY29uc29sZT10dHlTMCBlYXJseXByaW50az10dHlTMCBuZXQuaWZuYW1lcz0wIicKICAgIC0gbmFtZTogc2V0IENsaWVudEFsaXZlSW50ZXJ2YWwgaW4gc3NoZF9jb25maWcKICAgICAgbGluZWluZmlsZToKICAgICAgICBwYXRoOiAvZXRjL3NzaC9zc2hkX2NvbmZpZwogICAgICAgIHJlZ2V4cDogJ14jQ2xpZW50QWxpdmVJbnRlcnZhbC4qJwogICAgICAgIGxpbmU6ICdDbGllbnRBbGl2ZUludGVydmFsIDE4MCcKICAgIC0gbmFtZTogY29weSB3YWFnZW50IHJwbSBsb2NhbGx5CiAgICAgIGNvcHk6CiAgICAgICAgc3JjOiBmaWxlcy9XQUxpbnV4QWdlbnQtMi4yLjE0LTEuZWw3Lm5vYXJjaC5ycG0KICAgICAgICBkZXN0OiAvdG1wL1dBTGludXhBZ2VudC0yLjIuMTQtMS5lbDcubm9hcmNoLnJwbQogICAgLSBuYW1lOiBpbnN0YWxsIHdhYWdlbnQgcnBtCiAgICAgIHl1bToKICAgICAgICBuYW1lOiAvdG1wL1dBTGludXhBZ2VudC0yLjIuMTQtMS5lbDcubm9hcmNoLnJwbQogICAgICAgIHN0YXRlOiBwcmVzZW50CiAgICAtIG5hbWU6IGVuYWJsZSB0aGUgd2FhZ2VudCBzZXJ2aWNlCiAgICAgIHNlcnZpY2U6CiAgICAgICAgbmFtZTogd2FhZ2VudC5zZXJ2aWNlCiAgICAgICAgZW5hYmxlZDogeWVzCiAgICAtIG5hbWU6IHJlZ2VuZXJhdGUgZ3J1YiBjb25maWcKICAgICAgc2hlbGw6IC91c3Ivc2Jpbi9ncnViMi1ta2NvbmZpZyAtbyAvYm9vdC9ncnViMi9ncnViLmNmZwogICAgLSBuYW1lOiByZWdlbmVyYXRlIGluaXRyYW1mcwogICAgICBzaGVsbDogL3Vzci9zYmluL2RyYWN1dCAtZgogICAgLSBuYW1lOiBleGVjdXRlIHdhYWduZXQgZGVwcm92aXNpb24KICAgICAgc2hlbGw6IC91c3Ivc2Jpbi93YWFnZW50IC1mb3JjZSAtZGVwcm92aXNpb24KICAgIC0gbmFtZTogYWRkIHRlbXAgdXNlcgogICAgICB1c2VyOiBuYW1lPXRlbXAtdXNlciB1aWQ9MjAwMCBwYXNzd29yZD0kMSQyRVhjMEY4UCRtY0lybDR6cWsuUkl2Rm15aGlkWk8xCiAgICAtIG5hbWU6IGFkZCB0ZW1wIHVzZXIgdG8gc3Vkb2VycwogICAgICBsaW5laW5maWxlOgogICAgICAgIHBhdGg6IC9ldGMvc3Vkb2VycwogICAgICAgIGxpbmU6ICJ0ZW1wLXVzZXIgQUxMPShBTEwpIEFMTCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gZW5kCg==</text>
+        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cp</last-search>
+      <last-search>image_builder</last-search>
       <last-offset />
-      <last-pattern>cp</last-pattern>
+      <last-pattern>image_builder</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -124,6 +141,9 @@ s</text>
         <entry>name</entry>
         <entry>access</entry>
         <entry>cp</entry>
+        <entry encoding="base64">ICA=</entry>
+        <entry>sdi</entry>
+        <entry>image_builder</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
@@ -136,6 +156,9 @@ s</text>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
