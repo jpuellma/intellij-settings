@@ -19,6 +19,11 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="4" column="6" />
       </file>
+      <file name="$USER_HOME$/image_builder/scripts/tar_excludes.txt" timestamp="1513634941099">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/image_builder/ansible/scripts/getArchive.sh" timestamp="1513376389603">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -37,11 +42,10 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513633039293">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+      <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513634909801">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="/XML Fragment (td-agent-fixup.sh:313).xml" timestamp="1513354670354">
         <mark key="[" line="0" column="0" />
@@ -62,7 +66,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVudgo=</text>
       </register>
       <register name="-" type="4">
         <text>-rhel-os</text>
@@ -75,31 +79,31 @@
 s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVudgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3UgYXVzb25pYS11c2VyIC1jICdub2h1cCAuL2F1c29uaWEtcnVuLnNoID4gYXVzb25pYS1ydW4tbG9nJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">WyAtZiAvdmFyL2xpYi93YWFnZW50L0N1c3RvbURhdGEgXSAmJiBjcCAvdmFyL2xpYi93YWFnZW50L0N1c3RvbURhdGEgL21udC9yZXNvdXJjZS9DdXN0b21EYXRhCg==</text>
+        <text encoding="base64">c3UgYXVzb25pYS11c2VyIC1jICdub2h1cCAuL2F1c29uaWEtcnVuLnNoID4gYXVzb25pYS1ydW4tbG9nJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIk5vdCBmb3VuZC4gUmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gZW5kCg==</text>
+        <text encoding="base64">WyAtZiAvdmFyL2xpYi93YWFnZW50L0N1c3RvbURhdGEgXSAmJiBjcCAvdmFyL2xpYi93YWFnZW50L0N1c3RvbURhdGEgL21udC9yZXNvdXJjZS9DdXN0b21EYXRhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cyAK</text>
+        <text encoding="base64">ICAgIGVjaG8gIk5vdCBmb3VuZC4gUmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gc3RhcnQgJGkK</text>
+        <text encoding="base64">ICAgIGVjaG8gZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgW1sgXyR7bmFtZX0gPT0gX2ZhaWxlZCBdXTsgdGhlbgogICAgZXhpdCAxCmZpCg==</text>
+        <text encoding="base64">cyAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
