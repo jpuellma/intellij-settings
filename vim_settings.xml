@@ -6,11 +6,12 @@
       <file name="/Dummy.txt" timestamp="1513283939634">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/image_builder/scripts/image_builder_service.sh" timestamp="1513642979684">
-        <mark key="'" line="43" column="11" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/image_builder/scripts/image_builder_service.sh" timestamp="1513695401458">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="116" />
+        <mark key="." line="79" column="45" />
+        <mark key="^" line="79" column="118" />
       </file>
       <file name="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" timestamp="1513354494913">
         <mark key="'" line="28" column="16" />
@@ -18,12 +19,6 @@
         <mark key="]" line="28" column="76" />
         <mark key="." line="28" column="76" />
         <mark key="^" line="28" column="76" />
-      </file>
-      <file name="$USER_HOME$/image_builder/ansible/repos.yml" timestamp="1513282950518">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="72" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/image_builder/scripts/tar_excludes.txt" timestamp="1513634941099">
         <mark key="[" line="6" column="0" />
@@ -42,6 +37,39 @@
         <mark key="." line="33" column="18" />
         <mark key="^" line="32" column="35" />
       </file>
+      <file name="$USER_HOME$/cloudera/.gitignore" timestamp="1511996491939">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513694841063">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="43" column="74" />
+      </file>
+      <file name="/XML Fragment (td-agent-fixup.sh:313).xml" timestamp="1513354670354">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/image_builder/ansible/repos.yml" timestamp="1513282950518">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="72" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/bash-utilities/.gitignore" timestamp="1513693538137">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bash-utilities/template.sh" timestamp="1513695405069">
+        <mark key="'" line="30" column="7" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="117" />
+        <mark key="^" line="39" column="44" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" timestamp="1513639839338">
         <mark key="'" line="16" column="24" />
         <mark key="[" line="36" column="61" />
@@ -49,19 +77,7 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
       </file>
-      <file name="$USER_HOME$/cloudera/.gitignore" timestamp="1511996491939">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="5" />
-      </file>
-      <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513639526240">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="43" column="74" />
-      </file>
-      <file name="/XML Fragment (td-agent-fixup.sh:313).xml" timestamp="1513354670354">
+      <file name="/fragment.java" timestamp="1513694938989">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -98,7 +114,6 @@
       <jump line="19" column="39" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="12" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="68" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="1" column="1" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="16" column="13" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="17" column="52" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="20" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
@@ -129,62 +144,72 @@
       <jump line="55" column="17" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="63" column="17" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="43" column="11" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="38" column="20" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="44" column="20" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="52" column="20" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="57" column="20" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="32" column="17" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="26" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="39" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="37" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="1" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="80" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="30" column="7" filename="$USER_HOME$/bash-utilities/template.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRvX3ByaW50X3VzYWdlCiAgICBleGl0IDEK</text>
+        <text encoding="base64">IyBPbmx5IGludm9rZSBtYWluKCkgaWYgd2Ugd2VyZSBOT1Qgc291cmNlZC4KIyBUaGlzIGFsbG93cyBvdGhlciBzY3JpcHRzIHRvIHNvdXJjZSB0aGlzIGZpbGUgYW5kIGNoZXJyeS1waWNrIGZ1bmN0aW9uIGNhbGxzLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhwb3J0IA==</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">RW5kIA==</text>
+        <text>arg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiQmVnaW4gJHtGVU5DTkFNRVswXX0uIgogICAgbG9nX2RlYnVnICIgIEVuZCAke0ZVTkNOQU1FWzBdfS4iCg==</text>
+        <text encoding="base64">IyBPbmx5IGludm9rZSBtYWluKCkgaWYgd2Ugd2VyZSBOT1Qgc291cmNlZC4gVGhpcyBhbGxvd3Mgb3RoZXIgc2NyaXB0cyB0byBzb3VyY2UgdGhpcyBmaWxlIGFuZCBjaGVycnktcGljayBmdW5jdGlvbnMuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvX3ByaW50X3VzYWdlCiAgICBleGl0IDEK</text>
+        <text encoding="base64">IyBPbmx5IGludm9rZSBtYWluKCkgaWYgd2Ugd2VyZSBOT1Qgc291cmNlZC4KIyBUaGlzIGFsbG93cyBvdGhlciBzY3JpcHRzIHRvIHNvdXJjZSB0aGlzIGZpbGUgYW5kIGNoZXJyeS1waWNrIGZ1bmN0aW9uIGNhbGxzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4aXQK</text>
+        <text encoding="base64">ICAgIG9wdGlvbiAtIFN0b3BzIHNlcnZpY2UuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9wdGlvbiAtIFN0b3BzIHNlcnZpY2UuIFRoZW4gc3RhcnRzIHNlcnZpY2UuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9wdGlvbiAtIFN0b3BzIHNlcnZpY2UuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIG1haW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVidWdvbj10cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMgT25seSBpbnZva2UgbWFpbigpIGlmIHdlIHdlcmUgTk9UIHNvdXJjZWQuCiMgVGhpcyBhbGxvd3Mgb3RoZXIgc2NyaXB0cyB0byBzb3VyY2UgdGhpcyBmaWxlIGFuZCBjaGVycnktcGljayBmdW5jdGlvbiBjYWxscy4KWyAiJDAiID0gIiRCQVNIX1NPVVJDRSIgXSAmJiBuYXR1cmU9ZXhlY3V0ZWQgfHwgbmF0dXJlPXNvdXJjZWQKaWYgWyBfJHtuYXR1cmV9ICE9IF8ic291cmNlZCIgXTsgdGhlbgogICAgbG9nX2RlYnVnICJFeGVjdXRpbmcgbWFpbigpLiIKICAgIG1haW4KZWxzZQogICAgbG9nX2RlYnVnICJCZWluZyByZWFkIGFzIHNvdXJjZS4gU2tpcHBpbmcgbWFpbigpIGV4ZWN1dGlvbi4iCmZpCg==</text>
+        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhpdCAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVidWdvbj10cnVlCg==</text>
+        <text encoding="base64">ZG9fcHJpbnRfdXNhZ2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">RW5kIA==</last-search>
+      <last-search>arg</last-search>
       <last-offset />
-      <last-pattern encoding="base64">RW5kIA==</last-pattern>
+      <last-pattern>arg</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mes</entry>
-        <entry>logname</entry>
         <entry>name</entry>
         <entry>access</entry>
         <entry>cp</entry>
@@ -201,8 +226,10 @@
         <entry>]]</entry>
         <entry>false</entry>
         <entry encoding="base64">ICAg</entry>
-        <entry encoding="base64">RW5kICAg</entry>
         <entry encoding="base64">RW5kIA==</entry>
+        <entry encoding="base64">RW5kICAg</entry>
+        <entry>End</entry>
+        <entry>arg</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
