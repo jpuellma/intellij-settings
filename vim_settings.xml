@@ -6,10 +6,10 @@
       <file name="/Dummy.txt" timestamp="1513283939634">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/image_builder/scripts/image_builder_service.sh" timestamp="1513704893962">
-        <mark key="'" line="71" column="4" />
-        <mark key="[" line="153" column="37" />
-        <mark key="]" line="154" column="25" />
+      <file name="$USER_HOME$/image_builder/scripts/image_builder_service.sh" timestamp="1513713526755">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="118" column="0" />
         <mark key="^" line="154" column="25" />
         <mark key="." line="154" column="25" />
       </file>
@@ -63,12 +63,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bash-utilities/template.sh" timestamp="1513705035820">
+      <file name="$USER_HOME$/bash-utilities/template.sh" timestamp="1513713541873">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="21" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="85" column="1" />
         <mark key="^" line="29" column="20" />
-        <mark key="." line="70" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" timestamp="1513705478332">
         <mark key="'" line="16" column="24" />
@@ -82,7 +82,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="17" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="55" column="17" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="63" column="17" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="43" column="11" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
@@ -182,10 +181,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="17" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="22" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="126" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAke3JldF92YWx9Cg==</text>
+        <text encoding="base64">Cgpkb19wcmludF9mYWlsZWQoKSB7CiAgICBsb2dfZGVidWcgIkJlZ2luICR7RlVOQ05BTUVbMF19KCkuIgogICAgcHJpbnRmICJcZVszMW1bRkFJTEVEXVxlWzM5OzQ5bVxuIgogICAgbG9nX2RlYnVnICJFbmQgJHtGVU5DTkFNRVswXX0oKS4iCn0KCgpkb19wcmludF9zdWNjZXNzKCkgewogICAgbG9nX2RlYnVnICJCZWdpbiAke0ZVTkNOQU1FWzBdfSgpLiIKICAgIHByaW50ZiAiXGVbMzJtW1NVQ0NFU1NdXGVbMzk7NDltXG4iCiAgICBsb2dfZGVidWcgIkVuZCAke0ZVTkNOQU1FWzBdfSgpLiIKfQo=</text>
       </register>
       <register name="-" type="4">
         <text>ret_val</text>
@@ -194,7 +194,7 @@
         <text>^}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAke3JldF92YWx9Cg==</text>
+        <text encoding="base64">Cgpkb19wcmludF9mYWlsZWQoKSB7CiAgICBsb2dfZGVidWcgIkJlZ2luICR7RlVOQ05BTUVbMF19KCkuIgogICAgcHJpbnRmICJcZVszMW1bRkFJTEVEXVxlWzM5OzQ5bVxuIgogICAgbG9nX2RlYnVnICJFbmQgJHtGVU5DTkFNRVswXX0oKS4iCn0KCgpkb19wcmludF9zdWNjZXNzKCkgewogICAgbG9nX2RlYnVnICJCZWdpbiAke0ZVTkNOQU1FWzBdfSgpLiIKICAgIHByaW50ZiAiXGVbMzJtW1NVQ0NFU1NdXGVbMzk7NDltXG4iCiAgICBsb2dfZGVidWcgIkVuZCAke0ZVTkNOQU1FWzBdfSgpLiIKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxvY2FsIHJldHVybl92YWx1ZQo=</text>
