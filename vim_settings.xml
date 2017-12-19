@@ -6,6 +6,12 @@
       <file name="/Dummy.txt" timestamp="1513283939634">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/image_builder/scripts/image_builder_service.sh" timestamp="1513642979684">
+        <mark key="'" line="43" column="11" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" timestamp="1513354494913">
         <mark key="'" line="28" column="16" />
         <mark key="[" line="28" column="76" />
@@ -36,12 +42,12 @@
         <mark key="." line="33" column="18" />
         <mark key="^" line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" timestamp="1513638942343">
+      <file name="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" timestamp="1513639839338">
         <mark key="'" line="16" column="24" />
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="35" column="12" />
-        <mark key="." line="7" column="27" />
+        <mark key="[" line="36" column="61" />
+        <mark key="]" line="36" column="63" />
+        <mark key="^" line="36" column="63" />
+        <mark key="." line="36" column="63" />
       </file>
       <file name="$USER_HOME$/cloudera/.gitignore" timestamp="1511996491939">
         <mark key="[" line="0" column="12" />
@@ -49,8 +55,7 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513639348426">
-        <mark key="'" line="44" column="23" />
+      <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513639526240">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -85,61 +90,99 @@
       <jump line="26" column="19" filename="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" />
       <jump line="30" column="15" filename="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" />
       <jump line="17" column="24" filename="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="7" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="39" column="2" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="9" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="11" column="43" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="19" column="39" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="12" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="68" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="1" column="1" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="16" column="13" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="17" column="52" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="20" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="23" column="10" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="24" column="24" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="30" column="10" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="25" column="11" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="31" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="36" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="28" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="32" column="20" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="38" column="20" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="44" column="20" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="52" column="20" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="57" column="20" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="14" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="21" column="18" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="26" column="19" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="15" column="29" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="69" column="1" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="59" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="72" column="12" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="74" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="35" column="17" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="41" column="17" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="47" column="17" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="55" column="17" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="63" column="17" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="43" column="11" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgZ3Jvb3Z5Cg==</text>
+        <text encoding="base64">ICAgIGRvX3ByaW50X3VzYWdlCiAgICBleGl0IDEK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">ZXhwb3J0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>_stat</text>
+        <text encoding="base64">RW5kIA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogU3RhdCB0aGUgZGlyZWN0b3J5CiAgICAgIHN0YXQ6CiAgICAgICAgcGF0aDogInt7IGRlcGxveV9kaXIgfX0vaW1hZ2VfYnVpbGRlciIKICAgICAgcmVnaXN0ZXI6ICJkaXJfc3RhdCIKICAgIC0gbmFtZTogUmVuYW1lIG9sZCBkZXBsb3kgZGlyIHRvIC5vbGQKICAgICAgY29tbWFuZDogIm12IHt7IGRlcGxveV9kaXIgfX0vaW1hZ2VfYnVpbGRlciB7e2RlcGxveV9kaXIgfX0vaW1hZ2VfYnVpbGRlci5vbGQiCiAgICAgIHdoZW46IGRpcl9zdGF0LnN0YXQuZXhpc3RzCg==</text>
+        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiQmVnaW4gJHtGVU5DTkFNRVswXX0uIgogICAgbG9nX2RlYnVnICIgIEVuZCAke0ZVTkNOQU1FWzBdfS4iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgZ3Jvb3Z5Cg==</text>
+        <text encoding="base64">ICAgIGRvX3ByaW50X3VzYWdlCiAgICBleGl0IDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlOiAwNjQ0Cg==</text>
+        <text encoding="base64">ICAgIGV4aXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogTWFrZSB0aGUgZGVwbG95cyBkaXIuCiAgICAgIGZpbGU6CiAgICAgICAgb3duZXI6IG9zZmRldgogICAgICAgIGdyb3VwOiB1bml4dXNlcgogICAgICAgIG1vZGU6IDA3NTUKICAgICAgICBwYXRoOiB7eyBkZXBsb3lfZGlyIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlcjogCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogZXh0cmFjdCBhcmNoaXZlCiAgICAgIHVuYXJjaGl2ZToK</text>
+        <text encoding="base64">ZGVidWdvbj10cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogZmV0Y2ggYXJjaGl2ZQogICAgICBnZXRfdXJsOgo=</text>
+        <text encoding="base64">CiMgT25seSBpbnZva2UgbWFpbigpIGlmIHdlIHdlcmUgTk9UIHNvdXJjZWQuCiMgVGhpcyBhbGxvd3Mgb3RoZXIgc2NyaXB0cyB0byBzb3VyY2UgdGhpcyBmaWxlIGFuZCBjaGVycnktcGljayBmdW5jdGlvbiBjYWxscy4KWyAiJDAiID0gIiRCQVNIX1NPVVJDRSIgXSAmJiBuYXR1cmU9ZXhlY3V0ZWQgfHwgbmF0dXJlPXNvdXJjZWQKaWYgWyBfJHtuYXR1cmV9ICE9IF8ic291cmNlZCIgXTsgdGhlbgogICAgbG9nX2RlYnVnICJFeGVjdXRpbmcgbWFpbigpLiIKICAgIG1haW4KZWxzZQogICAgbG9nX2RlYnVnICJCZWluZyByZWFkIGFzIHNvdXJjZS4gU2tpcHBpbmcgbWFpbigpIGV4ZWN1dGlvbi4iCmZpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogcmVwbGFjZSAvZXRjL3N5c2NvbmZpZy9uZXR3b3JrCiAgICAgIGNvcHk6CiAgICAgICAgc3JjOiBmaWxlcy9uZXR3b3JrLXN5c2NvbmZpZwogICAgICAgIGRlc3Q6IC9ldGMvc3lzY29uZmlnL25ldHdvcmsKICAgICAgICBtb2RlOiAwNjQ0CiAgICAtIG5hbWU6IG1hc2sgcGVyc2lzdGVudC1uZXQtZ2VuZXJhdG9yLnJ1bGVzCiAgICAgIGZpbGU6CiAgICAgICAgcGF0aDogL2V0Yy91ZGV2L3J1bGVzLmQvNzUtcGVyc2lzdGVudC1uZXQtZ2VuZXJhdG9yLnJ1bGVzCiAgICAgICAgc3RhdGU6IGxpbmsKICAgICAgICBzcmM6IC9kZXYvbnVsbAogICAgLSBuYW1lOiBpbnN0YWxsIEF6dXJlIGRyYWN1dCBjb25maWd1cmF0aW9uCiAgICAgIGNvcHk6CiAgICAgICAgc3JjOiBmaWxlcy9henVyZS1kcmFjdXQKICAgICAgICBkZXN0OiAvZXRjL2RyYWN1dC5jb25mLmQvYXp1cmUtZHJhY3V0LmNvbmYKICAgICAgICBtb2RlOiAwNjQ0CiAgICAtIG5hbWU6IHJlbW92ZSBpdGVtcyBmcm9tIGNtZGxpbmUKICAgICAgbGluZWluZmlsZToKICAgICAgICBwYXRoOiAvZXRjL2RlZmF1bHQvZ3J1YgogICAgICAgIHJlZ2V4cDogJ15HUlVCX0NNRExJTkVfTElOVVgoLiopKGNyYXNoa2VybmVsPWF1dG8pICguKilyaGdiIHF1aWV0JwogICAgICAgIGJhY2tyZWZzOiB5ZXMKICAgICAgICBsaW5lOiAnR1JVQl9DTURMSU5FX0xJTlVYXDFcM3Jvb3RkZWxheT0zMDAgY29uc29sZT10dHlTMCBlYXJseXByaW50az10dHlTMCBuZXQuaWZuYW1lcz0wIicKICAgIC0gbmFtZTogc2V0IENsaWVudEFsaXZlSW50ZXJ2YWwgaW4gc3NoZF9jb25maWcKICAgICAgbGluZWluZmlsZToKICAgICAgICBwYXRoOiAvZXRjL3NzaC9zc2hkX2NvbmZpZwogICAgICAgIHJlZ2V4cDogJ14jQ2xpZW50QWxpdmVJbnRlcnZhbC4qJwogICAgICAgIGxpbmU6ICdDbGllbnRBbGl2ZUludGVydmFsIDE4MCcKICAgIC0gbmFtZTogY29weSB3YWFnZW50IHJwbSBsb2NhbGx5CiAgICAgIGNvcHk6CiAgICAgICAgc3JjOiBmaWxlcy9XQUxpbnV4QWdlbnQtMi4yLjE0LTEuZWw3Lm5vYXJjaC5ycG0KICAgICAgICBkZXN0OiAvdG1wL1dBTGludXhBZ2VudC0yLjIuMTQtMS5lbDcubm9hcmNoLnJwbQogICAgLSBuYW1lOiBpbnN0YWxsIHdhYWdlbnQgcnBtCiAgICAgIHl1bToKICAgICAgICBuYW1lOiAvdG1wL1dBTGludXhBZ2VudC0yLjIuMTQtMS5lbDcubm9hcmNoLnJwbQogICAgICAgIHN0YXRlOiBwcmVzZW50CiAgICAtIG5hbWU6IGVuYWJsZSB0aGUgd2FhZ2VudCBzZXJ2aWNlCiAgICAgIHNlcnZpY2U6CiAgICAgICAgbmFtZTogd2FhZ2VudC5zZXJ2aWNlCiAgICAgICAgZW5hYmxlZDogeWVzCiAgICAtIG5hbWU6IHJlZ2VuZXJhdGUgZ3J1YiBjb25maWcKICAgICAgc2hlbGw6IC91c3Ivc2Jpbi9ncnViMi1ta2NvbmZpZyAtbyAvYm9vdC9ncnViMi9ncnViLmNmZwogICAgLSBuYW1lOiByZWdlbmVyYXRlIGluaXRyYW1mcwogICAgICBzaGVsbDogL3Vzci9zYmluL2RyYWN1dCAtZgogICAgLSBuYW1lOiBleGVjdXRlIHdhYWduZXQgZGVwcm92aXNpb24KICAgICAgc2hlbGw6IC91c3Ivc2Jpbi93YWFnZW50IC1mb3JjZSAtZGVwcm92aXNpb24KICAgIC0gbmFtZTogYWRkIHRlbXAgdXNlcgogICAgICB1c2VyOiBuYW1lPXRlbXAtdXNlciB1aWQ9MjAwMCBwYXNzd29yZD0kMSQyRVhjMEY4UCRtY0lybDR6cWsuUkl2Rm15aGlkWk8xCiAgICAtIG5hbWU6IGFkZCB0ZW1wIHVzZXIgdG8gc3Vkb2VycwogICAgICBsaW5laW5maWxlOgogICAgICAgIHBhdGg6IC9ldGMvc3Vkb2VycwogICAgICAgIGxpbmU6ICJ0ZW1wLXVzZXIgQUxMPShBTEwpIEFMTCIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiZWNvbWU6IHllcwo=</text>
+        <text encoding="base64">ZGVidWdvbj10cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_stat</last-search>
+      <last-search encoding="base64">RW5kIA==</last-search>
       <last-offset />
-      <last-pattern>_stat</last-pattern>
+      <last-pattern encoding="base64">RW5kIA==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Set</entry>
         <entry>mes</entry>
         <entry>logname</entry>
         <entry>name</entry>
@@ -149,10 +192,24 @@
         <entry>sdi</entry>
         <entry>image_builder</entry>
         <entry>_stat</entry>
+        <entry>my_name</entry>
+        <entry>debugon</entry>
+        <entry>stack</entry>
+        <entry>echo _</entry>
+        <entry>true</entry>
+        <entry>[[</entry>
+        <entry>]]</entry>
+        <entry>false</entry>
+        <entry encoding="base64">ICAg</entry>
+        <entry encoding="base64">RW5kICAg</entry>
+        <entry encoding="base64">RW5kIA==</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>62</entry>
+        <entry>we</entry>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
