@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1513283939634">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/image_builder/scripts/image_builder_service.sh" timestamp="1513697286608">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="56" column="25" />
-        <mark key="." line="56" column="25" />
-        <mark key="^" line="56" column="25" />
+      <file name="$USER_HOME$/image_builder/scripts/image_builder_service.sh" timestamp="1513697882259">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="103" column="42" />
+        <mark key="]" line="103" column="50" />
+        <mark key="." line="103" column="50" />
+        <mark key="^" line="103" column="50" />
       </file>
       <file name="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" timestamp="1513354494913">
         <mark key="'" line="28" column="16" />
@@ -118,7 +118,6 @@
       <jump line="17" column="52" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="20" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="23" column="10" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="24" column="24" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="30" column="10" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="25" column="11" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="36" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
@@ -167,46 +166,48 @@
       <jump line="67" column="36" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="89" column="36" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="49" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="24" column="11" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
+      <jump line="22" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>End ${FUNCNAME[0]}.&quot;</text>
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>End ${FUNCNAME[0]}.&quot;</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">RW5kIA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBPbmx5IGludm9rZSBtYWluKCkgaWYgd2Ugd2VyZSBOT1Qgc291cmNlZC4gVGhpcyBhbGxvd3Mgb3RoZXIgc2NyaXB0cyB0byBzb3VyY2UgdGhpcyBmaWxlIGFuZCBjaGVycnktcGljayBmdW5jdGlvbnMuCg==</text>
+        <text encoding="base64">bG9nX2RlYnVnICJkaXIgaXMgJHtfX2Rpcn0uIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiQWN0aW9uIGlzICR7YWN0aW9ufS4iCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBPbmx5IGludm9rZSBtYWluKCkgaWYgd2Ugd2VyZSBOT1Qgc291cmNlZC4KIyBUaGlzIGFsbG93cyBvdGhlciBzY3JpcHRzIHRvIHNvdXJjZSB0aGlzIGZpbGUgYW5kIGNoZXJyeS1waWNrIGZ1bmN0aW9uIGNhbGxzLgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbiAtIFN0b3BzIHNlcnZpY2UuCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbiAtIFN0b3BzIHNlcnZpY2UuIFRoZW4gc3RhcnRzIHNlcnZpY2UuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbiAtIFN0b3BzIHNlcnZpY2UuCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1haW4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">bG9nX2RlYnVnICJfX2RpciBpcyAke19fZGlyfS4iCmxvZ19kZWJ1ZyAiX19maWxlIGlzICR7X19maWxlfS4iCmxvZ19kZWJ1ZyAiX19uYW1lIGlzICR7X19uYW1lfS4iCgoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiQWN0aW9uIGlzICR7YWN0aW9ufS4iCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBPbmx5IGludm9rZSBtYWluKCkgaWYgd2Ugd2VyZSBOT1Qgc291cmNlZC4KIyBUaGlzIGFsbG93cyBvdGhlciBzY3JpcHRzIHRvIHNvdXJjZSB0aGlzIGZpbGUgYW5kIGNoZXJyeS1waWNrIGZ1bmN0aW9uIGNhbGxzLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG9wdGlvbiAtIFN0b3BzIHNlcnZpY2UuCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
+        <text encoding="base64">ICAgIG9wdGlvbiAtIFN0b3BzIHNlcnZpY2UuIFRoZW4gc3RhcnRzIHNlcnZpY2UuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
