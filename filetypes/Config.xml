@@ -10,8 +10,8 @@
     <keywords ignore_case="false" />
   </highlighting>
   <extensionMap>
-    <mapping ext="config" />
     <mapping ext="conf" />
     <mapping ext="cfg" />
+    <mapping ext="config" />
   </extensionMap>
 </filetype>
