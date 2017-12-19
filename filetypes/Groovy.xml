@@ -1,0 +1,24 @@
+<filetype binary="false" description="Groovy" name="Groovy">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="//" />
+      <option name="COMMENT_START" value="/*" />
+      <option name="COMMENT_END" value="*/" />
+      <option name="HEX_PREFIX" value="0x" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
+    </options>
+    <keywords keywords="as;assert;break;case;catch;class;const;continue;dalse;def;default;do;else;enum;extends;finally;for;goto;if;implements;import;in;instanceof;interface;new;null;package;return;super;switch;this;throw;throws;trait;true;try;while" ignore_case="false" />
+    <keywords2 keywords="agent;pipeline;script;stage;stages;steps" />
+  </highlighting>
+  <extensionMap>
+    <mapping pattern="Jenkinsfile" />
+    <mapping ext="gsh" />
+    <mapping ext="groovy" />
+    <mapping ext="gvy" />
+    <mapping ext="gy" />
+  </extensionMap>
+</filetype>

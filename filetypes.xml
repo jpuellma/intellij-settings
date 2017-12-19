@@ -1,0 +1,7 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping pattern="Jenkinsfile" type="Jenkins file" />
+    </extensionMap>
+  </component>
+</application>
