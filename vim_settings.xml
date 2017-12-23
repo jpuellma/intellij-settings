@@ -6,25 +6,6 @@
       <file name="/Dummy.txt" timestamp="1513283939634">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/image_builder/scripts/image_builder_service.sh" timestamp="1513713526755">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="^" line="154" column="25" />
-        <mark key="." line="154" column="25" />
-      </file>
-      <file name="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" timestamp="1513354494913">
-        <mark key="'" line="28" column="16" />
-        <mark key="[" line="28" column="76" />
-        <mark key="]" line="28" column="76" />
-        <mark key="." line="28" column="76" />
-        <mark key="^" line="28" column="76" />
-      </file>
-      <file name="$USER_HOME$/image_builder/scripts/tar_excludes.txt" timestamp="1513634941099">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/image_builder/ansible/scripts/getArchive.sh" timestamp="1513376389603">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -37,31 +18,12 @@
         <mark key="." line="33" column="18" />
         <mark key="^" line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/cloudera/.gitignore" timestamp="1511996491939">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="5" />
-      </file>
-      <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513696669254">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="43" column="74" />
-      </file>
-      <file name="/XML Fragment (td-agent-fixup.sh:313).xml" timestamp="1513354670354">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/image_builder/ansible/repos.yml" timestamp="1513282950518">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="72" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="4" column="6" />
-      </file>
-      <file name="$USER_HOME$/bash-utilities/.gitignore" timestamp="1513693538137">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" timestamp="1513705478332">
+        <mark key="'" line="16" column="24" />
+        <mark key="[" line="36" column="61" />
+        <mark key="]" line="36" column="63" />
+        <mark key="^" line="36" column="63" />
+        <mark key="." line="36" column="63" />
       </file>
       <file name="$USER_HOME$/bash-utilities/template.sh" timestamp="1513713541873">
         <mark key="'" line="22" column="0" />
@@ -70,12 +32,50 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/image_builder/ansible/image_builder_deploy.yml" timestamp="1513705478332">
-        <mark key="'" line="16" column="24" />
-        <mark key="[" line="36" column="61" />
-        <mark key="]" line="36" column="63" />
-        <mark key="^" line="36" column="63" />
-        <mark key="." line="36" column="63" />
+      <file name="$USER_HOME$/image_builder/scripts/tar_excludes.txt" timestamp="1513634941099">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/bash-utilities/.gitignore" timestamp="1513693538137">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" timestamp="1513354494913">
+        <mark key="'" line="28" column="16" />
+        <mark key="[" line="28" column="76" />
+        <mark key="]" line="28" column="76" />
+        <mark key="." line="28" column="76" />
+        <mark key="^" line="28" column="76" />
+      </file>
+      <file name="/XML Fragment (td-agent-fixup.sh:313).xml" timestamp="1513354670354">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513696669254">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="43" column="74" />
+      </file>
+      <file name="$USER_HOME$/cloudera/.gitignore" timestamp="1511996491939">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/image_builder/scripts/image_builder_service.sh" timestamp="1513713526755">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="154" column="25" />
+        <mark key="." line="154" column="25" />
+      </file>
+      <file name="$USER_HOME$/image_builder/ansible/repos.yml" timestamp="1513282950518">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="72" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="4" column="6" />
       </file>
       <file name="/fragment.java" timestamp="1513694938989">
         <mark key="[" line="0" column="0" />
@@ -283,5 +283,8 @@
         <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
   </component>
 </application>
