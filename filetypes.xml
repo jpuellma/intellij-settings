@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <removed_mapping ext="gy" type="Groovy" />
-      <removed_mapping ext="groovy" type="Groovy" />
-    </extensionMap>
-  </component>
-</application>
