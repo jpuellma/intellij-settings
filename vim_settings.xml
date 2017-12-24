@@ -25,12 +25,11 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
       </file>
-      <file name="$USER_HOME$/bash-utilities/template.sh" timestamp="1514059835606">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="196" column="4" />
-        <mark key="]" line="196" column="3" />
-        <mark key="." line="196" column="3" />
-        <mark key="^" line="196" column="3" />
+      <file name="$USER_HOME$/bash-utilities/template.sh" timestamp="1514132998803">
+        <mark key="[" line="160" column="17" />
+        <mark key="]" line="160" column="17" />
+        <mark key="^" line="160" column="17" />
+        <mark key="." line="160" column="17" />
       </file>
       <file name="$USER_HOME$/image_builder/scripts/tar_excludes.txt" timestamp="1513634941099">
         <mark key="[" line="6" column="0" />
@@ -185,58 +184,57 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#do_stuff</text>
+        <text>echo is zero</text>
       </register>
       <register name="-" type="4">
-        <text>#do_stuff</text>
+        <text>echo is zero</text>
       </register>
       <register name="/" type="4">
-        <text>is_v</text>
+        <text>200</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiQmVnaW4gJHtGVU5DTkFNRVswXX0oKS4iCiAgICBsb2NhbCByZXRfdmFsCiAgICBkb19zdHVmZgogICAgbGV0IHJldF92YWw9cmV0X3ZhbCskPwogICAgbG9nX2RlYnVnICJFbmQgJHtGVU5DTkFNRVswXX0oKS4gUmV0dXJuaW5nICR7cmV0X3ZhbH0uIgogICAgcmV0dXJuICR7cmV0X3ZhbH0K</text>
+        <text encoding="base64">ICAgICAgICR7cmV0X3ZhbH0gPSAwCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBzIC1wICR7MX0gPiYvZGV2L251bGwK</text>
+        <text encoding="base64">ZXNhYwogICAgbG9nX2RlYnVnICJFbmQgJHtGVU5DTkFNRVswXX0oKS4gUmV0dXJuaW5nICR7cmV0X3ZhbH0uIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiRW5kICR7RlVOQ05BTUVbMF19KCkuIFJldHVybmluZyAke3JldF92YWx9LiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiRW5kICR7RlVOQ05BTUVbMF19KCkuIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiRW5kICR7RlVOQ05BTUVbMF19KCkuIgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiRW5kICR7RlVOQ05BTUVbMF19KCkuIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiRW5kICR7RlVOQ05BTUVbMF19KCkuIgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGxldCByZXRfdmFsPXJldF92YWwrJD8K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvX3N0YXJ0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>is_v</last-search>
+      <last-search>200</last-search>
       <last-offset />
-      <last-pattern>is_v</last-pattern>
+      <last-pattern>200</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>0</entry>
         <entry>exi</entry>
         <entry>do_fail</entry>
         <entry>do_su</entry>
@@ -256,6 +254,7 @@
         <entry>status</entry>
         <entry>is_vaa</entry>
         <entry>is_v</entry>
+        <entry>200</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
@@ -264,6 +263,8 @@
         <entry>we</entry>
         <entry>2</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>200</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
