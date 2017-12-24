@@ -25,12 +25,12 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
       </file>
-      <file name="$USER_HOME$/bash-utilities/template.sh" timestamp="1514135655780">
-        <mark key="'" line="143" column="54" />
-        <mark key="[" line="247" column="20" />
-        <mark key="]" line="247" column="20" />
-        <mark key="." line="247" column="20" />
-        <mark key="^" line="247" column="22" />
+      <file name="$USER_HOME$/bash-utilities/template.sh" timestamp="1514138426482">
+        <mark key="'" line="206" column="76" />
+        <mark key="[" line="80" column="13" />
+        <mark key="]" line="80" column="46" />
+        <mark key="." line="80" column="46" />
+        <mark key="^" line="80" column="46" />
       </file>
       <file name="$USER_HOME$/image_builder/scripts/tar_excludes.txt" timestamp="1513634941099">
         <mark key="[" line="6" column="0" />
@@ -82,25 +82,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="12" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="56" column="9" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="69" column="5" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="123" column="4" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="133" column="29" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="137" column="29" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="141" column="29" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="145" column="16" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="148" column="21" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="149" column="27" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="86" column="21" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="89" column="47" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="74" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="48" column="4" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="49" column="4" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="65" column="16" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="70" column="21" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="78" column="21" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="79" column="27" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="87" column="21" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="88" column="36" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="90" column="21" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
@@ -121,14 +102,12 @@
       <jump line="22" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="126" column="0" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="92" column="14" filename="$USER_HOME$/bash-utilities/template.sh" />
-      <jump line="69" column="1" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="89" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="142" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="141" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="122" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="1" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="17" column="15" filename="$USER_HOME$/bash-utilities/template.sh" />
-      <jump line="58" column="15" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="75" column="15" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="86" column="15" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="98" column="15" filename="$USER_HOME$/bash-utilities/template.sh" />
@@ -166,13 +145,10 @@
       <jump line="88" column="8" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="100" column="8" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="115" column="8" filename="$USER_HOME$/bash-utilities/template.sh" />
-      <jump line="127" column="8" filename="$USER_HOME$/bash-utilities/template.sh" />
-      <jump line="138" column="8" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="149" column="8" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="164" column="8" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="186" column="8" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="217" column="8" filename="$USER_HOME$/bash-utilities/template.sh" />
-      <jump line="247" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="19" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="30" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="68" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
@@ -181,81 +157,105 @@
       <jump line="227" column="5" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="223" column="18" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
-      <jump line="143" column="54" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="128" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="169" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="247" column="4" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="127" column="21" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="250" column="4" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="232" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="58" column="3" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="133" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="241" column="7" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="57" column="3" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="66" column="12" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="138" column="3" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="90" column="31" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="157" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="105" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="143" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="152" column="24" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="245" column="12" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="150" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="243" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="244" column="4" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="69" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="82" column="9" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="195" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="205" column="76" filename="$USER_HOME$/bash-utilities/template.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Does thing3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Does thing3</text>
       </register>
       <register name="/" type="4">
-        <text>do_check</text>
+        <text>args</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWFpbigpIHsK</text>
+        <text encoding="base64">ICAgIHJlc3RhcnQgLSBEb2VzIHRoaW5nMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGlzX3ZhbGlkX3BpZCAkMSA7IHRoZW4KICAgICAgICBlY2hvIGdvb2QKICAgIGVsc2UKICAgICAgICBlY2hvIGJhZAogICAgZmkK</text>
+        <text encoding="base64">ICAgIGxldCBjPSQodHB1dCBjb2xzKS0yMAogICAgcHJpbnRmICIlKnMiIC0ke2N9ICJTdGFydGluZyB0aGluZzoiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIgo=</text>
+        <text encoding="base64">ICAgIGxldCBjPWMtMjAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF9fZGlyPSIkKGNkICIkKGRpcm5hbWUgIiR7QkFTSF9TT1VSQ0VbMF19IikiICYmIHB3ZCkiCiAgICBfX2ZpbGU9IiR7X19kaXJ9LyQoYmFzZW5hbWUgIiR7QkFTSF9TT1VSQ0VbMF19IikiCiAgICBfX25hbWU9IiQoYmFzZW5hbWUgJHtfX2ZpbGV9KSIK</text>
+        <text encoding="base64">ICAgIGVjaG8gYWRzZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZG9fc3RvcCgpCg==</text>
+        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiQ29sdW1ucyBpcyAke2NvbHVtbnN9LiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWFpbigpIHsK</text>
+        <text encoding="base64">ICAgIGNvbHVtbnM9JCh0cHV0IGNvbHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
+        <text encoding="base64">ICAgICNwcmludGYgIlxlWzMxbSUqc1xlWzM5OzQ5bVxuIiAke2NvbHVtbnN9ICJbRkFJTEVEXSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBjb2x1bW5zPWNvbHVtbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXNhYwogICAgbG9nX2RlYnVnICJFbmQgJHtGVU5DTkFNRVswXX0oKS4gUmV0dXJuaW5nICR7cmV0X3ZhbH0uIgo=</text>
+        <text encoding="base64">ICAgICNwcmludGYgJyUqcycgJHtjb2x1bW5zfSAiXGVbMzFtW0ZBSUxFRF1cZVszOTs0OW1cbiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGM9JCh0cHV0IGNvbHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>do_check</last-search>
+      <last-search>args</last-search>
       <last-offset />
-      <last-pattern>do_check</last-pattern>
+      <last-pattern>args</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>do_su</entry>
-        <entry>main</entry>
-        <entry>kil</entry>
-        <entry>ret_val</entry>
-        <entry>local.*return_value</entry>
-        <entry encoding="base64">bG9jYWwg</entry>
-        <entry>local</entry>
-        <entry>return_value</entry>
-        <entry>}</entry>
-        <entry>pid</entry>
-        <entry encoding="base64">RW5kOiA=</entry>
-        <entry>End:</entry>
-        <entry encoding="base64">RW5kIA==</entry>
         <entry>is_vaa</entry>
         <entry>is_v</entry>
         <entry>200</entry>
         <entry>()</entry>
         <entry>^}</entry>
-        <entry>status</entry>
+        <entry>is_</entry>
         <entry>do_check</entry>
+        <entry encoding="base64">LiA=</entry>
+        <entry>Not</entry>
+        <entry>get_</entry>
+        <entry>failure</entry>
+        <entry>starting</entry>
+        <entry>Starting</entry>
+        <entry>do_start</entry>
+        <entry>failed</entry>
+        <entry>-3</entry>
+        <entry>_failed</entry>
+        <entry>do_print</entry>
+        <entry>status</entry>
+        <entry>args</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
@@ -266,6 +266,7 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>200</entry>
         <entry>q</entry>
+        <entry>242</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
