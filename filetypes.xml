@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="config" type="Erlang Terms" />
       <removed_mapping ext="gy" type="Groovy" />
       <removed_mapping ext="groovy" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile" type="Jenkins file" />
