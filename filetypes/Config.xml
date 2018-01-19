@@ -11,7 +11,7 @@
   </highlighting>
   <extensionMap>
     <mapping ext="conf" />
-    <mapping ext="cfg" />
     <mapping ext="config" />
+    <mapping ext="cfg" />
   </extensionMap>
 </filetype>
