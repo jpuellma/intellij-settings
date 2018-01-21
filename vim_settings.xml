@@ -25,6 +25,11 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
       </file>
+      <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516556180373">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/learn-elixir/hello-world.exs" timestamp="1516403735007">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -89,12 +94,17 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="4" column="6" />
       </file>
+      <file name="$USER_HOME$/learn-elixir/.gitignore" timestamp="1516555618150">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="5" />
+      </file>
       <file name="/fragment.java" timestamp="1513694938989">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="21" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="88" column="36" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="90" column="21" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="91" column="27" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
@@ -194,13 +204,14 @@
       <jump line="82" column="9" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="195" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="205" column="76" filename="$USER_HOME$/bash-utilities/template.sh" />
+      <jump line="0" column="10" filename="$USER_HOME$/learn-elixir/math.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Does thing3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Does thing3</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
@@ -209,31 +220,31 @@
         <text encoding="base64">ICAgIHJlc3RhcnQgLSBEb2VzIHRoaW5nMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBjPSQodHB1dCBjb2xzKS0yMAogICAgcHJpbnRmICIlKnMiIC0ke2N9ICJTdGFydGluZyB0aGluZzoiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBjPWMtMjAK</text>
+        <text encoding="base64">ICBkZWYgemVybz8oeCkgZG8gZmFsc2UKICBlbmQKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8gYWRzZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiQ29sdW1ucyBpcyAke2NvbHVtbnN9LiIK</text>
+        <text encoding="base64">ZGVmbW9kdWxlIE1hdGggZG8KICBkZWYgc3VtKGEsIGIpIGRvCiAgICBhICsgYgogIGVuZAplbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnM9JCh0cHV0IGNvbHMpCg==</text>
+        <text encoding="base64">ICAgIGxldCBjPSQodHB1dCBjb2xzKS0yMAogICAgcHJpbnRmICIlKnMiIC0ke2N9ICJTdGFydGluZyB0aGluZzoiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICNwcmludGYgIlxlWzMxbSUqc1xlWzM5OzQ5bVxuIiAke2NvbHVtbnN9ICJbRkFJTEVEXSIK</text>
+        <text encoding="base64">ICAgIGxldCBjPWMtMjAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBjb2x1bW5zPWNvbHVtbnMK</text>
+        <text encoding="base64">ICAgIGVjaG8gYWRzZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICNwcmludGYgJyUqcycgJHtjb2x1bW5zfSAiXGVbMzFtW0ZBSUxFRF1cZVszOTs0OW1cbiIK</text>
+        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiQ29sdW1ucyBpcyAke2NvbHVtbnN9LiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGM9JCh0cHV0IGNvbHMpCg==</text>
+        <text encoding="base64">ICAgIGNvbHVtbnM9JCh0cHV0IGNvbHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
