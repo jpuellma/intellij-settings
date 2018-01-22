@@ -25,10 +25,11 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
       </file>
-      <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516643430846">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516657240558">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="17" column="35" />
       </file>
       <file name="$USER_HOME$/learn-elixir/hello-world.exs" timestamp="1516403735007">
         <mark key="[" line="0" column="0" />
