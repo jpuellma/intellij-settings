@@ -25,10 +25,10 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
       </file>
-      <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516556180373">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516643430846">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/learn-elixir/hello-world.exs" timestamp="1516403735007">
         <mark key="[" line="0" column="0" />
@@ -223,28 +223,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgemVybz8oeCkgZG8gZmFsc2UKICBlbmQKCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkZWYgemVybz8oeCkgZG8gZmFsc2UKICBlbmQKCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmbW9kdWxlIE1hdGggZG8KICBkZWYgc3VtKGEsIGIpIGRvCiAgICBhICsgYgogIGVuZAplbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBjPSQodHB1dCBjb2xzKS0yMAogICAgcHJpbnRmICIlKnMiIC0ke2N9ICJTdGFydGluZyB0aGluZzoiCg==</text>
+        <text encoding="base64">ZGVmbW9kdWxlIE1hdGggZG8KICBkZWYgc3VtKGEsIGIpIGRvCiAgICBhICsgYgogIGVuZAplbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBjPWMtMjAK</text>
+        <text encoding="base64">ICAgIGxldCBjPSQodHB1dCBjb2xzKS0yMAogICAgcHJpbnRmICIlKnMiIC0ke2N9ICJTdGFydGluZyB0aGluZzoiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gYWRzZgo=</text>
+        <text encoding="base64">ICAgIGxldCBjPWMtMjAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiQ29sdW1ucyBpcyAke2NvbHVtbnN9LiIK</text>
+        <text encoding="base64">ICAgIGVjaG8gYWRzZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnM9JCh0cHV0IGNvbHMpCg==</text>
+        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiQ29sdW1ucyBpcyAke2NvbHVtbnN9LiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
