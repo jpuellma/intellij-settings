@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/learn_ex_2/.gitignore" timestamp="1516805915294" />
       <file name="/Dummy.txt" timestamp="1516726651573">
         <mark key="[" line="0" column="0" />
       </file>
@@ -11,6 +12,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/learn_ex_2/mix.exs" timestamp="1516805452728" />
       <file name="$USER_HOME$/image_builder/ansible/td-agent.yml" timestamp="1513353440900">
         <mark key="'" line="27" column="21" />
         <mark key="[" line="33" column="17" />
@@ -82,6 +84,12 @@
         <mark key="]" line="2" column="81" />
         <mark key="^" line="2" column="81" />
         <mark key="." line="2" column="81" />
+      </file>
+      <file name="$USER_HOME$/learn_ex_2/lib/learn_ex_2.ex" timestamp="1516805762849">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="17" column="2" />
+        <mark key="^" line="17" column="2" />
+        <mark key="." line="17" column="2" />
       </file>
       <file name="$USER_HOME$/image_builder/scripts/image_builder_service.sh" timestamp="1513713526755">
         <mark key="'" line="126" column="0" />
