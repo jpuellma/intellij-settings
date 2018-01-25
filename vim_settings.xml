@@ -25,12 +25,8 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
       </file>
-      <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516906250695">
-        <mark key="'" line="21" column="14" />
-        <mark key="[" line="25" column="2" />
-        <mark key="]" line="25" column="2" />
-        <mark key="." line="25" column="2" />
-        <mark key="^" line="25" column="2" />
+      <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516908032794">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/learn-elixir/hello-world.exs" timestamp="1516403735007">
         <mark key="[" line="0" column="0" />
@@ -113,8 +109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="27" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
-      <jump line="121" column="4" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="71" column="4" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="74" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="34" column="34" filename="$USER_HOME$/bash-utilities/template.sh" />
@@ -210,16 +204,18 @@
       <jump line="82" column="9" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="195" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="205" column="76" filename="$USER_HOME$/bash-utilities/template.sh" />
-      <jump line="0" column="10" filename="$USER_HOME$/learn-elixir/math.ex" />
       <jump line="17" column="14" filename="$USER_HOME$/learn-elixir/math.ex" />
       <jump line="21" column="14" filename="$USER_HOME$/learn-elixir/math.ex" />
+      <jump line="0" column="0" filename="$USER_HOME$/learn-elixir/math.ex" />
+      <jump line="32" column="2" filename="$USER_HOME$/learn-elixir/math.ex" />
+      <jump line="1" column="0" filename="$USER_HOME$/learn-elixir/math.ex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>z</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text encoding="base64">aW5jID0gJigmMSArIDEp</text>
       </register>
       <register name="/" type="4">
         <text>fac</text>
@@ -228,31 +224,31 @@
         <text encoding="base64">ICAgIHJlc3RhcnQgLSBEb2VzIHRoaW5nMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZtb2R1bGUgTWF0aCBkbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgemVybz8oeCkgZG8gZmFsc2UKICBlbmQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmbW9kdWxlIE1hdGggZG8KICBkZWYgc3VtKGEsIGIpIGRvCiAgICBhICsgYgogIGVuZAplbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBjPSQodHB1dCBjb2xzKS0yMAogICAgcHJpbnRmICIlKnMiIC0ke2N9ICJTdGFydGluZyB0aGluZzoiCg==</text>
+        <text encoding="base64">ICBkZWYgemVybz8oeCkgZG8gZmFsc2UKICBlbmQKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBjPWMtMjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gYWRzZgo=</text>
+        <text encoding="base64">ZGVmbW9kdWxlIE1hdGggZG8KICBkZWYgc3VtKGEsIGIpIGRvCiAgICBhICsgYgogIGVuZAplbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ19kZWJ1ZyAiQ29sdW1ucyBpcyAke2NvbHVtbnN9LiIK</text>
+        <text encoding="base64">ICAgIGxldCBjPSQodHB1dCBjb2xzKS0yMAogICAgcHJpbnRmICIlKnMiIC0ke2N9ICJTdGFydGluZyB0aGluZzoiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -299,8 +295,8 @@
         <entry>q</entry>
         <entry>242</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>&quot;w</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
