@@ -25,8 +25,11 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
       </file>
-      <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516908032794">
+      <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516909168060">
         <mark key="'" line="1" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/learn-elixir/hello-world.exs" timestamp="1516403735007">
         <mark key="[" line="0" column="0" />
@@ -212,7 +215,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW5jID0gJigmMSArIDEp</text>
@@ -224,13 +227,13 @@
         <text encoding="base64">ICAgIHJlc3RhcnQgLSBEb2VzIHRoaW5nMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWZtb2R1bGUgTWF0aCBkbwo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZtb2R1bGUgTWF0aCBkbwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -239,16 +242,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgemVybz8oeCkgZG8gZmFsc2UKICBlbmQKCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkZWYgemVybz8oeCkgZG8gZmFsc2UKICBlbmQKCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmbW9kdWxlIE1hdGggZG8KICBkZWYgc3VtKGEsIGIpIGRvCiAgICBhICsgYgogIGVuZAplbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBjPSQodHB1dCBjb2xzKS0yMAogICAgcHJpbnRmICIlKnMiIC0ke2N9ICJTdGFydGluZyB0aGluZzoiCg==</text>
+        <text encoding="base64">ZGVmbW9kdWxlIE1hdGggZG8KICBkZWYgc3VtKGEsIGIpIGRvCiAgICBhICsgYgogIGVuZAplbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
