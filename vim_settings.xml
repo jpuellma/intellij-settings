@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/learn_ex_2/.gitignore" timestamp="1516805915294" />
       <file name="/Dummy.txt" timestamp="1516726651573">
         <mark key="[" line="0" column="0" />
       </file>
@@ -12,7 +11,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/learn_ex_2/mix.exs" timestamp="1516805452728" />
       <file name="$USER_HOME$/image_builder/ansible/td-agent.yml" timestamp="1513353440900">
         <mark key="'" line="27" column="21" />
         <mark key="[" line="33" column="17" />
@@ -27,12 +25,12 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
       </file>
-      <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516726630379">
+      <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516906250695">
         <mark key="'" line="21" column="14" />
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="22" column="13" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="22" column="13" />
+        <mark key="[" line="25" column="2" />
+        <mark key="]" line="25" column="2" />
+        <mark key="." line="25" column="2" />
+        <mark key="^" line="25" column="2" />
       </file>
       <file name="$USER_HOME$/learn-elixir/hello-world.exs" timestamp="1516403735007">
         <mark key="[" line="0" column="0" />
@@ -218,10 +216,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>== 1  or x == 0 do</text>
+        <text>z</text>
       </register>
       <register name="-" type="4">
-        <text>== 1  or x == 0 do</text>
+        <text>z</text>
       </register>
       <register name="/" type="4">
         <text>fac</text>
@@ -302,6 +300,7 @@
         <entry>242</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>&quot;w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
