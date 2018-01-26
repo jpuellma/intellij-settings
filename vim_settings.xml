@@ -3,8 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1516726651573">
+      <file name="/Dummy.txt" timestamp="1516980251054">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="42" />
       </file>
       <file name="$USER_HOME$/image_builder/ansible/scripts/getArchive.sh" timestamp="1513376389603">
         <mark key="[" line="17" column="0" />
@@ -25,7 +26,7 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
       </file>
-      <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516909168060">
+      <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516979695313">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -37,11 +38,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/bash-utilities/template.sh" timestamp="1514138426482">
+      <file name="$USER_HOME$/bash-utilities/template.sh" timestamp="1516980232538">
         <mark key="'" line="206" column="76" />
-        <mark key="[" line="80" column="13" />
-        <mark key="]" line="80" column="46" />
-        <mark key="." line="80" column="46" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
         <mark key="^" line="80" column="46" />
       </file>
       <file name="$USER_HOME$/image_builder/scripts/tar_excludes.txt" timestamp="1513634941099">
@@ -215,7 +216,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvY2FsIGNvbHVtbnMK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW5jID0gJigmMSArIDEp</text>
@@ -223,20 +224,20 @@
       <register name="/" type="4">
         <text>fac</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQgLSBEb2VzIHRoaW5nMwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">Z21haWwuY29tPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvY2FsIGNvbHVtbnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWZtb2R1bGUgTWF0aCBkbwo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZtb2R1bGUgTWF0aCBkbwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -245,13 +246,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgemVybz8oeCkgZG8gZmFsc2UKICBlbmQKCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkZWYgemVybz8oeCkgZG8gZmFsc2UKICBlbmQKCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmbW9kdWxlIE1hdGggZG8KICBkZWYgc3VtKGEsIGIpIGRvCiAgICBhICsgYgogIGVuZAplbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
