@@ -90,12 +90,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/Freya/Jenkinsfile" timestamp="1517860223277">
-        <mark key="'" line="3" column="12" />
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
-        <mark key="^" line="9" column="35" />
+      <file name="$USER_HOME$/Freya/Jenkinsfile" timestamp="1517862180085">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="48" />
+        <mark key="." line="7" column="48" />
+        <mark key="^" line="7" column="48" />
       </file>
       <file name="$USER_HOME$/learn-elixir/README.md" timestamp="1516402552775">
         <mark key="[" line="0" column="0" />
@@ -133,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="34" column="34" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="37" column="15" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="40" column="24" filename="$USER_HOME$/bash-utilities/template.sh" />
@@ -233,6 +232,7 @@
       <jump line="32" column="2" filename="$USER_HOME$/learn-elixir/math.ex" />
       <jump line="1" column="0" filename="$USER_HOME$/learn-elixir/math.ex" />
       <jump line="3" column="12" filename="$USER_HOME$/Freya/Jenkinsfile" />
+      <jump line="5" column="0" filename="$USER_HOME$/Freya/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -242,7 +242,7 @@
         <text>credentialsId: '0ec840e5-fcc3-4416-9476-f11ad1d9a9ed',</text>
       </register>
       <register name="/" type="4">
-        <text>Echo</text>
+        <text>Prep</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Z21haWwuY29tPg==</text>
@@ -279,15 +279,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Echo</last-search>
+      <last-search>Prep</last-search>
       <last-offset />
-      <last-pattern>Echo</last-pattern>
+      <last-pattern>Prep</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>200</entry>
         <entry>()</entry>
         <entry>^}</entry>
         <entry>is_</entry>
@@ -307,6 +306,7 @@
         <entry>args</entry>
         <entry>fac</entry>
         <entry>Echo</entry>
+        <entry>Prep</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
