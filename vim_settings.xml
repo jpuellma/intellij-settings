@@ -3,9 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1516980251054">
+      <file name="/Dummy.txt" timestamp="1517859987914">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="42" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/image_builder/ansible/scripts/getArchive.sh" timestamp="1513376389603">
         <mark key="[" line="17" column="0" />
@@ -25,6 +26,12 @@
         <mark key="]" line="36" column="63" />
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
+      </file>
+      <file name="$USER_HOME$/Freya/ci-cd/1.yml" timestamp="1517859373490">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="$USER_HOME$/learn-elixir/math.ex" timestamp="1516979695313">
         <mark key="'" line="1" column="0" />
@@ -65,6 +72,12 @@
       <file name="/XML Fragment (td-agent-fixup.sh:313).xml" timestamp="1513354670354">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Freya/ci-cd/prep_jenkins_server.yml" timestamp="1517859512047">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="63" />
+        <mark key="." line="2" column="63" />
+        <mark key="^" line="2" column="63" />
+      </file>
       <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513696669254">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -77,11 +90,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/Freya/Jenkinsfile" timestamp="1517848682760">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="1" />
+      <file name="$USER_HOME$/Freya/Jenkinsfile" timestamp="1517860223277">
+        <mark key="'" line="3" column="12" />
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/learn-elixir/README.md" timestamp="1516402552775">
         <mark key="[" line="0" column="0" />
@@ -119,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="4" filename="$USER_HOME$/image_builder/scripts/image_builder_service.sh" />
       <jump line="74" column="0" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="34" column="34" filename="$USER_HOME$/bash-utilities/template.sh" />
       <jump line="37" column="15" filename="$USER_HOME$/bash-utilities/template.sh" />
@@ -219,16 +232,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/learn-elixir/math.ex" />
       <jump line="32" column="2" filename="$USER_HOME$/learn-elixir/math.ex" />
       <jump line="1" column="0" filename="$USER_HOME$/learn-elixir/math.ex" />
+      <jump line="3" column="12" filename="$USER_HOME$/Freya/Jenkinsfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ki8K</text>
+      <register name="&quot;" type="4">
+        <text>credentialsId: '0ec840e5-fcc3-4416-9476-f11ad1d9a9ed',</text>
       </register>
       <register name="-" type="4">
-        <text>**</text>
+        <text>credentialsId: '0ec840e5-fcc3-4416-9476-f11ad1d9a9ed',</text>
       </register>
       <register name="/" type="4">
-        <text>fac</text>
+        <text>Echo</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Z21haWwuY29tPg==</text>
@@ -265,15 +279,14 @@
       </register>
     </registers>
     <search>
-      <last-search>fac</last-search>
+      <last-search>Echo</last-search>
       <last-offset />
-      <last-pattern>fac</last-pattern>
+      <last-pattern>Echo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>is_v</entry>
         <entry>200</entry>
         <entry>()</entry>
         <entry>^}</entry>
@@ -293,6 +306,7 @@
         <entry>status</entry>
         <entry>args</entry>
         <entry>fac</entry>
+        <entry>Echo</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
