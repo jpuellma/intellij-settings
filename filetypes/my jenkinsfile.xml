@@ -1,13 +1,20 @@
 <filetype binary="false" description="my jenkinsfile" name="my jenkinsfile">
   <highlighting>
     <options>
-      <option name="LINE_COMMENT" value="" />
-      <option name="COMMENT_START" value="" />
-      <option name="COMMENT_END" value="" />
-      <option name="HEX_PREFIX" value="" />
+      <option name="LINE_COMMENT" value="//" />
+      <option name="COMMENT_START" value="/*" />
+      <option name="COMMENT_END" value="*/" />
+      <option name="HEX_PREFIX" value="0x" />
       <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
     </options>
-    <keywords keywords="lmlmlm" ignore_case="false" />
+    <keywords keywords="agent;post;stages;steps" ignore_case="false" />
+    <keywords2 keywords="environment;input;options;parameters;stage;tools;triggers;when" />
+    <keywords3 keywords="abstract;as;assert;boolean;break;byte;case;catch;char;class;const;continue;def;default;do;double;else;enum;extends;false;final;finally;float;for;goto;if;implements;import;in;instanceof;int;interface;long;native;new;null;package;private;protected;public;return;short;static;strictfp;super;switch;synchronized;this;threadsafe;throw;throws;transient;true;try;void;volatile;while" />
+    <keywords4 keywords="DATEFORMAT_DEFAULT;DAYS;DEFAULTLANG;HOURS;MILLISECONDS;MINUTES;MONTHS;SECONDS;WEEKS;YEARS" />
   </highlighting>
   <extensionMap>
     <mapping pattern="Jenkinsfile" />
