@@ -77,6 +77,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/Freya/Jenkinsfile" timestamp="1517847197716">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
       <file name="$USER_HOME$/learn-elixir/README.md" timestamp="1516402552775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="81" />
