@@ -78,6 +78,7 @@
         <mark key="." line="2" column="63" />
         <mark key="^" line="2" column="63" />
       </file>
+      <file name="$USER_HOME$/elixir_zero/.gitlab-ci.yml" timestamp="1518042028946" />
       <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513696669254">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -103,7 +104,7 @@
         <mark key="^" line="2" column="81" />
         <mark key="." line="2" column="81" />
       </file>
-      <file name="$USER_HOME$/elixir_zero/mix.exs" timestamp="1518040152194" />
+      <file name="$USER_HOME$/elixir_zero/mix.exs" timestamp="1518041391465" />
       <file name="$USER_HOME$/learn_ex_2/lib/learn_ex_2.ex" timestamp="1516805762849">
         <mark key="[" line="15" column="9" />
         <mark key="]" line="17" column="2" />
