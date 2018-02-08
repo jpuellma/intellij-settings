@@ -3,6 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1517859987914">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/image_builder/ansible/scripts/getArchive.sh" timestamp="1513376389603">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/image_builder/ansible/td-agent.yml" timestamp="1513353440900">
         <mark key="'" line="27" column="21" />
         <mark key="[" line="33" column="17" />
@@ -29,6 +39,17 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/elixir_zero/brunch-config.js" timestamp="1518111357846">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/learn-elixir/hello-world.exs" timestamp="1516403735007">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/bash-utilities/template.sh" timestamp="1516980232538">
         <mark key="'" line="206" column="76" />
         <mark key="[" line="149" column="0" />
@@ -41,11 +62,32 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/image_builder/scripts/tar_excludes.txt" timestamp="1513634941099">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Freya/ci-cd/prep_jenkins_server.yml" timestamp="1517859512047">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="63" />
         <mark key="." line="2" column="63" />
         <mark key="^" line="2" column="63" />
+      </file>
+      <file name="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" timestamp="1513354494913">
+        <mark key="'" line="28" column="16" />
+        <mark key="[" line="28" column="76" />
+        <mark key="]" line="28" column="76" />
+        <mark key="." line="28" column="76" />
+        <mark key="^" line="28" column="76" />
+      </file>
+      <file name="/XML Fragment (td-agent-fixup.sh:313).xml" timestamp="1513354670354">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513696669254">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="43" column="74" />
       </file>
       <file name="$USER_HOME$/Freya/Jenkinsfile" timestamp="1517862180085">
         <mark key="'" line="6" column="0" />
@@ -53,6 +95,18 @@
         <mark key="]" line="8" column="48" />
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
+      </file>
+      <file name="$USER_HOME$/cloudera/.gitignore" timestamp="1511996491939">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/learn-elixir/README.md" timestamp="1516402552775">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="81" />
+        <mark key="^" line="2" column="81" />
+        <mark key="." line="2" column="81" />
       </file>
       <file name="$USER_HOME$/learn_ex_2/lib/learn_ex_2.ex" timestamp="1516805762849">
         <mark key="[" line="15" column="9" />
@@ -72,60 +126,6 @@
         <mark key="]" line="12" column="72" />
         <mark key="." line="12" column="17" />
         <mark key="^" line="4" column="6" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1517859987914">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/image_builder/ansible/scripts/getArchive.sh" timestamp="1513376389603">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/elixir_zero/brunch-config.js" timestamp="1518111130901">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-      </file>
-      <file name="$USER_HOME$/learn-elixir/hello-world.exs" timestamp="1516403735007">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/image_builder/scripts/tar_excludes.txt" timestamp="1513634941099">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/image_builder/ansible/scripts/td-agent-fixup.sh" timestamp="1513354494913">
-        <mark key="'" line="28" column="16" />
-        <mark key="[" line="28" column="76" />
-        <mark key="]" line="28" column="76" />
-        <mark key="." line="28" column="76" />
-        <mark key="^" line="28" column="76" />
-      </file>
-      <file name="/XML Fragment (td-agent-fixup.sh:313).xml" timestamp="1513354670354">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/image_builder/Jenkinsfile" timestamp="1513696669254">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="43" column="74" />
-      </file>
-      <file name="$USER_HOME$/cloudera/.gitignore" timestamp="1511996491939">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="5" />
-      </file>
-      <file name="$USER_HOME$/learn-elixir/README.md" timestamp="1516402552775">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="81" />
-        <mark key="^" line="2" column="81" />
-        <mark key="." line="2" column="81" />
       </file>
       <file name="$USER_HOME$/learn-elixir/.gitignore" timestamp="1516555618150">
         <mark key="[" line="1" column="4" />
@@ -241,7 +241,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YWJzCg==</text>
+        <text encoding="base64">YWJzdHJhY3QK</text>
       </register>
       <register name="-" type="4">
         <text>credentialsId: '0ec840e5-fcc3-4416-9476-f11ad1d9a9ed',</text>
@@ -253,31 +253,31 @@
         <text encoding="base64">Z21haWwuY29tPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWJzCg==</text>
+        <text encoding="base64">YWJzdHJhY3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">YWJzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXNkZgo=</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIGNvbHVtbnMK</text>
+        <text encoding="base64">YXNkZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvY2FsIGNvbHVtbnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWZtb2R1bGUgTWF0aCBkbwo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZtb2R1bGUgTWF0aCBkbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
